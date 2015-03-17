@@ -1,0 +1,1 @@
+{"version":3,"sources":["application.coffee","preload.coffee"],"names":[],"mappings":"AAAA,OAAA,CAAA,GAAA,CAAA,aAAA,CAAA,CAAA;;AAAA,OCAA,CAAA,GAAA,CAAA,WAAA,CDAA,CAAA","file":"application.js","sourceRoot":"/source/","sourcesContent":["console.log 'epa nenem 2'\n","console.log 'epa nenem'\n"]}
